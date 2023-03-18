@@ -1,3 +1,3 @@
 ﻿# role-playing-game
 
-https://adammmmd.github.io/role-playing-game/ (on going :) )
+https://adammmmd.github.io/role-playing-game/
